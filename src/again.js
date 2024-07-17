@@ -1,5 +1,5 @@
 //23.	Bir dizedeki tekrar eden karakterleri bulan bir program yazın.
-
+//xx
 let arr = ['z', 'e', 'y', 'n', 'e', 'p'];
 
 function againfunc(arr) {
